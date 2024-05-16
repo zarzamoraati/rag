@@ -1,0 +1,15 @@
+langchain-community
+langchain-groq
+pypdf
+python-dotenv
+langchain
+langchain-chroma
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+langchain-google-genai
+langchain-nomic
+langchain-google-vertexai
+tiktoken
+gpt4all
